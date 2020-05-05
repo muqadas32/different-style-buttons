@@ -1,0 +1,58 @@
+
+button{
+    font-size: 1.1em;
+    font-family: sans-serif;
+    margin: 0.5;
+}
+
+
+#btn-cart{
+    background-color:tomato;
+    color: white;
+    padding: 1em 3em;
+
+    border:none
+
+}
+#btn-play{
+    background-color: yellow;
+    color: white;
+    border: 3px solid rgb(13, 132, 206);
+     font-family: 'Gugi' sans-serif;
+    padding: 10px 30px;
+    font-size: 1.5em;
+}
+
+#login-btn{
+border-radius: 20px;
+border: none;
+background-image: linear-gradient(to right,#59d1de,#a7d384);
+color: white;
+
+padding: 12px 38px;
+}
+#signup-btn{
+    color: #6749ea;
+    background-color: white;
+padding: 10px 20px;
+    border: 3px solid #6749ea;
+    border-radius: 7px;
+}
+#subscribe-btn{
+    background-image:linear-gradient(to top,#f5a332,#fac733) ;
+    padding: 12px 2em;
+    border: 2px solid #f5a332;
+    border-radius: 5px;
+    color: white;
+    text-shadow: 1px 1px 2px grey;
+}
+#twitter-btn{
+
+    background-color: white;
+    border: 2px solid #38a1f3;
+    color:  #38a1f3;
+    border-radius: 50px;
+    padding: 10px 13px;
+    font-size: 1.2em;
+
+}
